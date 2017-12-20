@@ -1,6 +1,9 @@
 package advent;
 
+import com.sun.tools.javac.util.List;
+
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Day2 {
 
